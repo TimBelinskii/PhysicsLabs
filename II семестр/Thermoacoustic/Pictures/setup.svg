@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="101.03854mm"
+   width="130.0625mm"
    height="126.82188mm"
-   viewBox="0 0 101.03854 126.82188"
+   viewBox="0 0 130.0625 126.82189"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-181.72644"
-     inkscape:cy="195.16147"
+     inkscape:zoom="2"
+     inkscape:cx="186.25"
+     inkscape:cy="233"
      inkscape:window-width="1920"
      inkscape:window-height="1046"
      inkscape:window-x="-11"
@@ -58,8 +58,8 @@
     <rect
        x="37.123104"
        y="175.00893"
-       width="97.580734"
-       height="22.627417"
+       width="136.58073"
+       height="22.127417"
        id="rect3253" />
     <rect
        x="54.728748"
@@ -158,8 +158,8 @@
     <rect
        x="404.89056"
        y="36.808235"
-       width="58.994019"
-       height="20.673119"
+       width="139.49402"
+       height="19.673119"
        id="rect15702" />
     <marker
        style="overflow:visible"
@@ -184,8 +184,8 @@
     <rect
        x="246.56474"
        y="172.94827"
-       width="118.49226"
-       height="18.656227"
+       width="125.99226"
+       height="20.156227"
        id="rect13170" />
     <marker
        style="overflow:visible"
@@ -208,8 +208,8 @@
     <rect
        x="108.03134"
        y="131.56293"
-       width="53.65913"
-       height="18.361761"
+       width="119.65913"
+       height="20.361761"
        id="rect12354" />
     <rect
        x="293.0751"
@@ -240,15 +240,15 @@
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-85.619041,-2.6598246)">
+     transform="translate(-67.12312,-2.6598246)">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,115.41447,66.150993)"
+       transform="matrix(0.26458333,0,0,0.26458333,114.35613,66.150993)"
        id="text12352"
        style="white-space:pre;shape-inside:url(#rect12354);display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.990236;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="108.03125"
          y="142.51046"
-         id="tspan14971">$Driver$</tspan></text>
+         id="tspan3918">$\text{Динамик}$</tspan></text>
     <path
        id="rect184"
        style="fill:none;stroke:#000000;stroke-width:0.264583"
@@ -468,27 +468,24 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,23.710476,32.018121)"
+       transform="matrix(0.26458333,0,0,0.26458333,25.297977,32.018121)"
        id="text13168"
        style="white-space:pre;shape-inside:url(#rect13170);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.990236;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="246.56445"
          y="183.89718"
-         id="tspan14973">$Resonance\;Tube</tspan><tspan
-         x="246.56445"
-         y="202.55343"
-         id="tspan14975">$</tspan></text>
+         id="tspan3920">$\text{Труба}$</tspan></text>
     <path
        style="fill:#d7d7d7;fill-opacity:1;stroke:#000000;stroke-width:0.262;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1)"
        d="m 114.19796,76.576674 4.26909,-5.869991"
        id="path14900" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-15.507229,23.248355)"
+       transform="matrix(0.26458333,0,0,0.26458333,-44.875988,22.983772)"
        id="text15700"
        style="white-space:pre;shape-inside:url(#rect15702);display:inline;fill:#010101;fill-opacity:1;stroke:#000000;stroke-width:0.990236;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="404.89062"
          y="47.756558"
-         id="tspan14977">$Stack$</tspan></text>
+         id="tspan3922">$\text{Регенератор}$</tspan></text>
     <path
        style="fill:#d7d7d7;fill-opacity:1;stroke:#000000;stroke-width:0.262;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15724)"
        d="m 111.98135,34.552889 h 5.06954"
@@ -530,7 +527,7 @@
        style="white-space:pre;shape-inside:url(#rect1746);display:inline;fill:#502d16;stroke:#000000;stroke-width:0.612283;stroke-dasharray:none"><tspan
          x="54.728516"
          y="40.184292"
-         id="tspan14979">$L$</tspan></text>
+         id="tspan3924">$L$</tspan></text>
     <path
        style="fill:#010101;stroke:#000000;stroke-width:0.162;stroke-dasharray:none"
        d="M 119.42867,21.296542 H 108.10855"
@@ -553,7 +550,7 @@
        style="white-space:pre;shape-inside:url(#rect2376);display:inline;fill:#502d16;stroke:#000000;stroke-width:0.612283;stroke-dasharray:none"><tspan
          x="54.728516"
          y="40.184292"
-         id="tspan14981">$x$</tspan></text>
+         id="tspan3926">$x$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#502d16;stroke:#000000;stroke-width:0.162;stroke-dasharray:none"
@@ -608,17 +605,17 @@
        y="3.844919" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;white-space:pre;inline-size:16.0537;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.162;stroke-dasharray:none"
+       style="font-size:3.175px;white-space:pre;inline-size:16.0537;display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.162;stroke-dasharray:none"
        x="162.16151"
        y="10.003055"
        id="text3195"
-       transform="translate(-1.6691251,28.617919)"><tspan
+       transform="translate(-1.6691251,30.734587)"><tspan
          x="162.16151"
          y="10.003055"
-         id="tspan14983">$Arduino</tspan><tspan
+         id="tspan3928">$Arduino\</tspan><tspan
          x="162.16151"
          y="13.971804"
-         id="tspan14985">Nano$</tspan></text>
+         id="tspan3930">;Nano$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.162;stroke-dasharray:none"
@@ -634,10 +631,10 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,75.637606,4.6469533)"
        id="text3251"
-       style="white-space:pre;shape-inside:url(#rect3253);fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.612283;stroke-dasharray:none"><tspan
+       style="white-space:pre;shape-inside:url(#rect3253);display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.612283;stroke-dasharray:none"><tspan
          x="37.123047"
          y="185.95773"
-         id="tspan14987">$Thermistor$</tspan></text>
+         id="tspan3932">$\text{Термистор}$</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.162;stroke-dasharray:none;marker-end:url(#marker3441)"
        d="m 118.33599,49.806167 4.11595,-4.209494"
@@ -666,17 +663,18 @@
        id="path655" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;white-space:pre;inline-size:19.9826;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.162;stroke-dasharray:none"
+       style="font-size:3.175px;white-space:pre;inline-size:32.8149;display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.162;stroke-dasharray:none"
        x="162.16151"
        y="10.003055"
        id="text1381"
        transform="translate(2.4468258,84.884836)"><tspan
          x="162.16151"
          y="10.003055"
-         id="tspan14989">$Amplifier$</tspan></text>
+         id="tspan3934">$\text{Усилитель}$</tspan></text>
     <path
        style="fill:#010101;stroke:#000000;stroke-width:0.262;marker-end:url(#marker3441)"
-       d="m 178.71886,96.765424 c 0.0468,0.280633 -5.28525,13.283296 -5.28525,13.283296"
-       id="path2285" />
+       d="m 184.80428,96.765424 c 0.0468,0.280633 -11.37067,13.283296 -11.37067,13.283296"
+       id="path2285"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
